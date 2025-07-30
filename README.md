@@ -1,4 +1,4 @@
-![Screenshot](./Screenshot 2025-07-30 221816)
+![Screenshot](/Screenshot 2025-07-30 221816)
 ![Screenshot](./Screenshot 2025-07-30 221838)
 ![Screenshot](./Screenshot 2025-07-30 221914)
 ![Screenshot](./Screenshot 2025-07-30 221934)
